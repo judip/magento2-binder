@@ -18,8 +18,8 @@ books or games and we want to set automatic related products for the same author
 ### Installation
 
 
-1) Download the Mware_Binder extension from the Magento Marketplace.
-2) Unzip the file and put contents in app/code/ directory.
+1) Download the ZIP repository.
+2) Unzip the files and put contents (only Mware directory) in Magento app/code/
 3) Run the following commands in an SSH console on the root directory Magento
 server:
 a) php bin/magento module:enable Mware_Binder
